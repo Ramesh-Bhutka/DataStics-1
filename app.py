@@ -16,7 +16,7 @@ from sklearn.preprocessing import StandardScaler
 
 # Loading crop recommendation model
 
-car_price_prediction_model_path = 'models/Car-XGBregressor.pkl'
+car_price_prediction_model_path = 'models/Car-XGBRegressor.pkl'
 car_price_prediction_model = pickle.load(
     open(car_price_prediction_model_path, 'rb'))
 
