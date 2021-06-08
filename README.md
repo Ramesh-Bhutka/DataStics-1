@@ -10,4 +10,4 @@ You can access it at [Website](https://datastics1.herokuapp.com/)
 
 Note: The website may take a minute to load sometimes, as the server may be in hibernate state
 
- Fill free to contact me and I will get back to you as soon as possible! [LinkedIn](https://www.linkedin.com/in/ramesh-bhutka-71a632157/)
+ Feel free to contact me and I will get back to you as soon as possible! [LinkedIn](https://www.linkedin.com/in/ramesh-bhutka-71a632157/)
